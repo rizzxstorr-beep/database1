@@ -1,6 +1,14 @@
 [
   {
-    "number": "6287845735301",
-    "status": "active"
+    "id": "120363428796783110@newsletter",
+    "desc": "Information"
+  },
+  {
+    "id": "120363407696390937@newsletter",
+    "desc": "Stock"
+  },
+  {
+    "id": "120363424797337834@newsletter",
+    "desc": "Testimoni"
   }
 ]
